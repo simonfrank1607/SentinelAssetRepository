@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2019-01-01-preview",
             "properties": {
-                "displayName": "Repositories automation rule 1",
+                "displayName": "ChangeOwnerPersistenceIncidents",
                 "order": 1,
                 "triggeringLogic": {
                     "isEnabled": true,
