@@ -1,4 +1,4 @@
 FileName, CommitSha
-Analytic Rules/MalformedUserAgents.json,ee6bc4e38e526f390b1936c568cf54dba43c2e9f
 Automation Rule/ChangeOwnerPersistenceIncidents.json,5d43fbe8adf6c82fed4af93c7a7a4b88ddef6091
+sentinel-deployment.config,50b4eb1921296ba7104daf8bc06dc81e06f3a4ae
 
