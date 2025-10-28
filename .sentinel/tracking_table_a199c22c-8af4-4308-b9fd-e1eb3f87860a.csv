@@ -1,3 +1,4 @@
 FileName, CommitSha
 Analytic Rules/MalformedUserAgents.json,ee6bc4e38e526f390b1936c568cf54dba43c2e9f
+Automation Rule/ChangeOwnerPersistenceIncidents.json,d77de991a6da075090e7620fdadaedb0af638e30
 
